@@ -1,2 +1,3 @@
 # lyrics
-Application web pour créer des lyrics pour Suno - créée avec Antigravity
+Application web pour créer des musiques pour Suno - créée avec Antigravity
+
