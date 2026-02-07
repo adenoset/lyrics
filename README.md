@@ -1,2 +1,2 @@
 # lyrics
-Application web pour sauvegarder les paroles de chansons - créée avec Antigravity
+Application web pour créer des lyrics pour Suno - créée avec Antigravity
